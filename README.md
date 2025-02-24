@@ -13,10 +13,11 @@ Gli esercizi coprono diversi argomenti affrontati nel corso, con l'obiettivo di 
 La repository è organizzata in modo che ogni esercizio sia contenuto in un file Go separato.  
 Gli esercizi sono:  
 
-- ✅ [**Implementazioni di algoritmi classici**](es1-foresta.go)  
-- ✅ **Strutture dati fondamentali**  
-- ✅ **Tecniche di ottimizzazione**  
-- ✅ **Esercizi di programmazione competitiva**  
+- ✅ [**Implementazioni di una foresta di alberi che mantengono espressioni matematiche**](es1-foresta.go)  
+- ✅ [**Creazione di una lista di nodi circolari**](filtro.go)  
+- ✅ [**Implementazione di una serie di funzioni atte a gestire l'accensione e lo spegnimento di una serie di interruttori**](interruttori.go)  
+- ✅ [**Creazione di una lista di nodi in cui l'inserimento avviene all'inizio della lista**](sposta.go)
+- ✅ [**Implementazione di un puzzle a sequenza per sbloccare una ricompensa**](tesoro.go)  
 
 ---
 
