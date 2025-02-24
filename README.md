@@ -13,7 +13,7 @@ Gli esercizi coprono diversi argomenti affrontati nel corso, con l'obiettivo di 
 La repository è organizzata in modo che ogni esercizio sia contenuto in un file Go separato.  
 Gli esercizi sono:  
 
-- ✅ [**Implementazioni di algoritmi classici**]()  
+- ✅ [**Implementazioni di algoritmi classici**](es1-foresta.go)  
 - ✅ **Strutture dati fondamentali**  
 - ✅ **Tecniche di ottimizzazione**  
 - ✅ **Esercizi di programmazione competitiva**  
